@@ -1,0 +1,67 @@
+﻿@page "/NewsPage"
+@using Application.Dto
+@using Application.Interfaces.service
+@rendermode InteractiveServer
+@inject INewsServices newsServices
+@inject NavigationManager Navigation
+
+<h3>NewsPage</h3>
+@if (isLoading)
+{
+    <h3>loading....</h3>
+}
+else
+{
+    <div class="col-md-12">
+        <button type="button" class="btn btn-outline-primary" @onclick="AddFn">ثبت</button>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <td>عنوان</td>
+                <td>متن</td>
+                <td>نویسنده</td>
+
+                <td>عملیات</td>
+
+            </tr>
+
+        </thead>
+        <tbody>
+            @foreach (var item in newsList)
+            {
+                <tr>
+                    <td>@item.Title</td>
+                    <td>@(item.Description.Length > 10 ? item.Description.Substring(0, 10) : item.Description)</td>
+                    <td>@item.FullName</td>
+                    <td>
+                        <button type="button" class="btn btn-outline-primary" @onclick="() => EdtFn(item.Id)">ویرایش</button>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+
+@code {
+
+    List<NewsDto> newsList = new List<NewsDto>();
+    bool isLoading = true;
+    protected override async Task OnInitializedAsync()
+    {
+        newsList = await newsServices.GetAllNews();
+        isLoading = false;
+
+    }
+    protected void EdtFn(int id)
+    {
+        Navigation.NavigateTo($"/EditNewsPage/{id}");
+    }
+    protected void AddFn()
+    {
+        Navigation.NavigateTo($"/AddNewsPage");
+    }
+}

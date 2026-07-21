@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\ui\\components\\pages\\editpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\components\\pages\\editpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\ui\\components\\pages\\newspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\components\\pages\\newspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\infra\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\infra\\repositores\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\repositores\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\infra\\persistent\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\persistent\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\application\\services\\newsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\services\\newsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\application\\interfaces\\service\\iusersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\service\\iusersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\application\\interfaces\\service\\inewsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\service\\inewsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\application\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\application\\interfaces\\repository\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\repository\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\application\\dto\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dto\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|c:\\users\\crg\\documents\\visual studio 2022\\blazorapp\\blazorapp27\\ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Infra\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infra\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Infra\\DependencyInjection.cs",
+              "RelativeToolTip": "Infra\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:40:17.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:40:01.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Infra\\persistent\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Infra\\persistent\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Infra\\persistent\\DapperContext.cs",
+              "RelativeToolTip": "Infra\\persistent\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:38:53.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsersServices.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Interfaces\\service\\IUsersServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\service\\IUsersServices.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Interfaces\\service\\IUsersServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\service\\IUsersServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:37:49.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INewsServices.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Interfaces\\service\\INewsServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\service\\INewsServices.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Interfaces\\service\\INewsServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\service\\INewsServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:37:47.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Interfaces\\repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Interfaces\\repository\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:37:23.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T05:36:29.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Interfaces\\repository\\INewsRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\repository\\INewsRepository.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Interfaces\\repository\\INewsRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\repository\\INewsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T07:59:42.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsPage.razor",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\UI\\Components\\Pages\\NewsPage.razor",
+              "RelativeDocumentMoniker": "UI\\Components\\Pages\\NewsPage.razor",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\UI\\Components\\Pages\\NewsPage.razor",
+              "RelativeToolTip": "UI\\Components\\Pages\\NewsPage.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T07:33:02.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditPage.razor",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\UI\\Components\\Pages\\EditPage.razor",
+              "RelativeDocumentMoniker": "UI\\Components\\Pages\\EditPage.razor",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\UI\\Components\\Pages\\EditPage.razor*",
+              "RelativeToolTip": "UI\\Components\\Pages\\EditPage.razor*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T06:21:45.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewsDto.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Dto\\NewsDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\NewsDto.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Dto\\NewsDto.cs",
+              "RelativeToolTip": "Application\\Dto\\NewsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T07:58:01.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\UI\\appsettings.json",
+              "RelativeDocumentMoniker": "UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\UI\\appsettings.json",
+              "RelativeToolTip": "UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-21T08:27:41.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Infra\\Repositores\\NewsRepository.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositores\\NewsRepository.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Infra\\Repositores\\NewsRepository.cs",
+              "RelativeToolTip": "Infra\\Repositores\\NewsRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T07:12:09.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewsServices.cs",
+              "DocumentMoniker": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Services\\NewsServices.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\NewsServices.cs",
+              "ToolTip": "C:\\Users\\CRG\\Documents\\Visual Studio 2022\\blazorapp\\BlazorApp27\\Application\\Services\\NewsServices.cs",
+              "RelativeToolTip": "Application\\Services\\NewsServices.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwC4AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T07:06:33.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
